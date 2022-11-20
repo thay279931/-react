@@ -1,0 +1,10 @@
+.points{
+  border: 1px solid red;
+  text-align: center;
+  padding: 5px;
+}
+.memberPointTable{
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+}
